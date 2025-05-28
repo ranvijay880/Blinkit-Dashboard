@@ -163,5 +163,5 @@ Enabled Blinkit to make informed decisions around product planning, outlet expan
 By integrating all business-critical metrics in one interactive platform, this project not only meets the analytical needs of the business but also sets a foundation for continuous performance monitoring and strategic growth. Power BI’s flexibility ensures this dashboard can be expanded or adapted as business priorities evolve.
 
 Screenshots / Demos
-Show what the dashboard looks like.
-Example: https://github.com/ranvijay880/Blinkit-Dashboard/blob/main/Screenshot%20of%20The%20Dashboard.png
+Show what the dashboard looks like
+Example: ![Dashboard preview].(https://github.com/ranvijay880/Blinkit-Dashboard/blob/main/Screenshot%20of%20The%20Dashboard.png)
