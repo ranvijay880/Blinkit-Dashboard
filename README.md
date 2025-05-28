@@ -164,4 +164,4 @@ By integrating all business-critical metrics in one interactive platform, this p
 
 Screenshots / Demos
 Show what the dashboard looks like.
-Example:
+Example: https://github.com/ranvijay880/Blinkit-Dashboard/blob/main/Screenshot%20of%20The%20Dashboard.png
